@@ -1,6 +1,4 @@
 import pygame as pyg
-from numpy.matlib import dtypes
-from pygame.color import Color
 from pygame.constants import MOUSEBUTTONDOWN
 
 scr_size = (1000, 1000)
